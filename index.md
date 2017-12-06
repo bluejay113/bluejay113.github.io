@@ -21,3 +21,6 @@
 
 [Kilorush3d](https://github.com/TheChosenOne113/Kilorush3d/archive/master.zip)
 
+### OTHER
+
+[Windows Command Prompt for Raspberry Pi](https://thechosenone113.github.io/wincmd-raspi)
