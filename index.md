@@ -1,4 +1,4 @@
-# TheChosenOne113
+# BlueJayGaming
 
 [Subscribe to my YouTube channel!](https://www.youtube.com/channel/UCKbtlFhUozHZJgGgGa1j6sw)
 
@@ -25,4 +25,4 @@
 
 [Windows Command Prompt for Raspberry Pi](https://thechosenone113.github.io/wincmd-raspi)
 
-[First Order Gaming Webpage](https://thechosenone113.github.io/FirstOrderGaming)
+[First Order Gaming Webpage](https://projectfoxtrot.github.io/FirstOrderGaming)
