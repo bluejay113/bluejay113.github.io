@@ -26,3 +26,5 @@
 [Windows Command Prompt for Raspberry Pi](https://thechosenone113.github.io/wincmd-raspi)
 
 [First Order Gaming Webpage](https://projectfoxtrot.github.io/FirstOrderGaming)
+
+[Windows 98 VM Online](https://thechosenone113.github.io/Windows98VM)
