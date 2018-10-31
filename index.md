@@ -30,3 +30,5 @@
 [Windows 98 VM Online](https://blueJay113.github.io/Windows98VM)
 
 [DOS (Work in Progress)](https://github.com/BlueJay113/DOS)
+
+[Kahoot! Play](https://bluejay113.github.io/Kahoot-Play)
