@@ -1,4 +1,4 @@
-# BlueJayGaming
+# BlueJaySoftware
 
 [Subscribe to my YouTube channel!](https://www.youtube.com/channel/UCKbtlFhUozHZJgGgGa1j6sw)
 
