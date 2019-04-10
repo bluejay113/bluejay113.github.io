@@ -31,3 +31,5 @@
 [NTFS for macOS (right-click + save link as)](https://github.com/BlueJay113/NTFS-for-macOS/raw/master/NTFS-for-macOS.sh)
 
 [Meme SoundBoard](https://bluejay113.github.io/MemeSoundBoard)
+
+[Disk Format Utility](https://github.com/BlueJay113/DiskFormatTool/raw/master/DiskFormatUtility.exe)
