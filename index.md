@@ -1,6 +1,6 @@
 # BlueJaySoftware
 
-[Subscribe to my YouTube channel!](https://www.youtube.com/channel/UCKbtlFhUozHZJgGgGa1j6sw)
+[Subscribe to my YouTube channel!](https://www.youtube.com/channel/UCT0uFEGgs0-X7Pze7_jtGWA)
 
 [Check out my Steam Page!](http://steamcommunity.com/id/OHealing)
 
