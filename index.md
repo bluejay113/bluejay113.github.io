@@ -22,6 +22,8 @@
 
 [Windows 98 VM Online](https://blueJay113.github.io/Windows98VM)
 
+[Yeetability Calculator](https://github.com/BlueJay113/YeetabilityCalculator/raw/master/YeetabilityCalculator.exe)
+
 ### Other
 
 [Kahoot! Play](https://bluejay113.github.io/Kahoot-Play)
