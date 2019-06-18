@@ -8,11 +8,11 @@
 
 ### Flash Games (Grabbed from Scratch.mit.edu)
 
-[Geometry Dash](https://bluejay113.github.io/Geometry-Dash/archive/master.zip)
+[Geometry Dash](https://github.com/bluejay113/Geometry-Dash/archive/master.zip)
 
-[Rainbow Snake](https://bluejay113.github.io/Rainbow-Snake/)
+[Rainbow Snake](https://github.com/bluejay113/Rainbow-Snake/)
 
-[Kilorush3d](https://bluejay113.github.io/Kilorush3d/)
+[Kilorush3d](https://github.com/bluejay113/Kilorush3d/)
 
 ### Random
 
