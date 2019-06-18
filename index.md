@@ -22,18 +22,18 @@
 
 [Windows 98 VM Online](https://blueJay113.github.io/Windows98VM)
 
-[Yeetability Calculator](https://bluejay113.github.io/YeetabilityCalculator/raw/master/YeetabilityCalculator.exe)
+[Yeetability Calculator](https://bluejay113.github.io/YeetabilityCalculator/YeetabilityCalculator.exe)
 
 ### Other
 
-[Kahoot! Play](https://bluejay113.github.io/Kahoot-Play/raw/master/Kahoot!%20Play.exe)
+[Kahoot! Play](https://bluejay113.github.io/Kahoot-Play/Kahoot!%20Play.exe)
 
-[Text To Numbers Translator](https://bluejay113.github.io/Text2NumbersTranslator/raw/master/Translator.exe)
+[Text To Numbers Translator](https://bluejay113.github.io/Text2NumbersTranslator/Translator.exe)
 
-[NTFS for macOS](https://bluejay113.github.io/NTFS-for-macOS/raw/master/NTFS-for-macOS.sh)
+[NTFS for macOS](https://bluejay113.github.io/NTFS-for-macOS//NTFS-for-macOS.sh)
 
 [Meme SoundBoard](https://bluejay113.github.io/MemeSoundBoard)
 
-[Disk Format Utility](https://bluejay113.github.io/DiskFormatTool/raw/master/DiskFormatUtility.exe)
+[Disk Format Utility](https://bluejay113.github.io/DiskFormatTool/DiskFormatUtility.exe)
 
-[Internet Explorer V2](https://bluejay113.github.io/iexplorev2/raw/master/iexplore.exe)
+[Internet Explorer V2](https://bluejay113.github.io/iexplorev2/iexplore.exe)
