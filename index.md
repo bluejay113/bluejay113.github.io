@@ -2,11 +2,11 @@
 
 [Subscribe to my YouTube channel!](https://www.youtube.com/channel/UCT0uFEGgs0-X7Pze7_jtGWA)
 
-[Check out my Steam Page!](http://steamcommunity.com/id/OHealing)
+[Check out my Steam Page!](http://steamcommunity.com/id/ohealing)
 
 ## Downloads and stuff
 
-### Flash Games (Grabbed from Scratch.mit.edu)
+### Flash Games (Fetched from Scratch.mit.edu)
 
 [Geometry Dash](https://github.com/bluejay113/Geometry-Dash/archive/master.zip)
 
