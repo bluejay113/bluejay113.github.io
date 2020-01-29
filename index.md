@@ -36,6 +36,8 @@
 
 [YouTube Downloader](https://bluejay113.github.io/ytdl-chrome/)
 
+[BYOx Alternative](https://bluejay113.github.io/byoxalternative/BYOx%20Alternative.exe)
+
 ### Other
 
 [First Order Gaming Webpage](https://projectfoxtrot.github.io/FirstOrderGaming)
