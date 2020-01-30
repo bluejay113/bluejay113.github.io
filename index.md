@@ -28,6 +28,8 @@
 
 [Yeetability Calculator](https://bluejay113.github.io/YeetabilityCalculator/YeetabilityCalculator.exe)
 
+[MyMusicStaff App for Windows](https://bluejay113.github.io/mymusicstaffapp/MyMusicStaff.exe)
+
 ### Scripts
 
 [NTFS for macOS](https://bluejay113.github.io/NTFS-for-macOS/NTFS-for-macOS.sh)
