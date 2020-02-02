@@ -28,7 +28,7 @@
 
 [Yeetability Calculator](https://bluejay113.github.io/YeetabilityCalculator/YeetabilityCalculator.exe)
 
-[MyMusicStaff App for Windows](https://github-production-release-asset-2e65be.s3.amazonaws.com/237122803/81735980-45e1-11ea-95ac-cca21c442c5e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200202%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200202T082132Z&X-Amz-Expires=300&X-Amz-Signature=587e583e2f8039f3c2e43677b6efdded92ab07f54d4c60617290d6a65be8087d&X-Amz-SignedHeaders=host&actor_id=29883287&response-content-disposition=attachment%3B%20filename%3DMMS_Setup.zip&response-content-type=application%2Foctet-stream)
+[MyMusicStaff App for Windows](https://github.com/BlueJay113/mymusicstaffapp/releases)
 
 [Gmail App](https://github.com/BlueJay113/gmailapp/releases/)
 
