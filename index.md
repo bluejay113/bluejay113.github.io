@@ -4,11 +4,11 @@
 
 [Check out my Steam Page!](http://steamcommunity.com/id/ohealing)
 
-## Downloads and stuff
+## Projects
 
 ### Flash Games (Fetched from Scratch.mit.edu)
 
-[Geometry Dash](https://github.com/bluejay113/Geometry-Dash/archive/master.zip)
+[Geometry Dash](https://github.com/bluejay113/Geometry-Dash/)
 
 [Kilorush3d](https://github.com/bluejay113/Kilorush3d/)
 
@@ -20,17 +20,17 @@
 
 [Internet Explorer V2](https://bluejay113.github.io/iexplorev2/iexplore.exe)
 
-[Kahoot! Play](https://bluejay113.github.io/Kahoot-Play/Kahoot!%20Play.exe)
+[Kahoot! Play](https://bluejay113.github.io/Kahoot-Play/)
 
 [Text To Numbers Translator](https://bluejay113.github.io/Text2NumbersTranslator/Translator.exe)
-
-[Windows 98 VM Online](https://blueJay113.github.io/Windows98VM)
 
 [Yeetability Calculator](https://bluejay113.github.io/YeetabilityCalculator/YeetabilityCalculator.exe)
 
 [MyMusicStaff App for Windows](https://github.com/BlueJay113/mymusicstaffapp/releases)
 
 [Gmail App](https://github.com/BlueJay113/gmailapp/releases/)
+
+[BYOx Alternative](https://bluejay113.github.io/byoxalternative/BYOx%20Alternative.exe)
 
 ### Scripts
 
@@ -40,10 +40,10 @@
 
 [YouTube Downloader](https://bluejay113.github.io/ytdl-chrome/)
 
-[BYOx Alternative](https://bluejay113.github.io/byoxalternative/BYOx%20Alternative.exe)
-
 ### Other
 
-[First Order Gaming Webpage](https://projectfoxtrot.github.io/FirstOrderGaming)
+[Website Destroyer](https://bluejay113.github.io/websitedestroyer)
 
 [Meme SoundBoard](https://bluejay113.github.io/MemeSoundBoard)
+
+[Windows 98 VM Online](https://blueJay113.github.io/Windows98VM)
