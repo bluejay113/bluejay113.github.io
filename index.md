@@ -18,21 +18,21 @@
 
 ### Applications
 
+[BYOx Alternative](https://bluejay113.github.io/byoxalternative/BYOx%20Alternative.exe)
+
 [Disk Format Utility](https://bluejay113.github.io/DiskFormatTool/DiskFormatUtility.exe)
-
-[Internet Explorer V2](https://bluejay113.github.io/iexplorev2/iexplore.exe)
-
-[Kahoot! Play](https://bluejay113.github.io/Kahoot-Play/)
-
-[Text To Numbers Translator](https://bluejay113.github.io/Text2NumbersTranslator/Translator.exe)
-
-[Yeetability Calculator](https://bluejay113.github.io/YeetabilityCalculator/YeetabilityCalculator.exe)
-
-[MyMusicStaff App for Windows](https://github.com/BlueJay113/mymusicstaffapp/releases)
 
 [Gmail App](https://github.com/BlueJay113/gmailapp/releases/)
 
-[BYOx Alternative](https://bluejay113.github.io/byoxalternative/BYOx%20Alternative.exe)
+[Kahoot! Play](https://bluejay113.github.io/Kahoot-Play/)
+
+[MyMusicStaff App for Windows](https://github.com/BlueJay113/mymusicstaffapp/releases)
+
+[Text To Numbers Translator](https://bluejay113.github.io/Text2NumbersTranslator/Translator.exe)
+
+[Timetable For Windows](https://bluejay113.github.io/timetable)
+
+[Yeetability Calculator](https://bluejay113.github.io/YeetabilityCalculator/YeetabilityCalculator.exe)
 
 ### Scripts
 
@@ -44,8 +44,8 @@
 
 ### Other
 
-[Website Destroyer](https://bluejay113.github.io/websitedestroyer)
-
 [Meme SoundBoard](https://bluejay113.github.io/MemeSoundBoard)
+
+[Website Destroyer](https://bluejay113.github.io/websitedestroyer)
 
 [Windows 98 VM Online](https://blueJay113.github.io/Windows98VM)
