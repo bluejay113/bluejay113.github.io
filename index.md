@@ -4,8 +4,6 @@
 
 [Check out my Steam Page!](http://steamcommunity.com/id/ohealing)
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O51FAUE)
-
 ## Projects
 
 ### Flash Games (Fetched from Scratch.mit.edu)
