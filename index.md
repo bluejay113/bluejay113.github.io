@@ -40,6 +40,8 @@
 
 [YouTube Downloader](https://bluejay113.github.io/ytdl-chrome/)
 
+[Mathletics Customiser](https://bluejay113.github.io/mathletics-customiser/)
+
 ### Other
 
 [Meme SoundBoard](https://bluejay113.github.io/MemeSoundBoard)
