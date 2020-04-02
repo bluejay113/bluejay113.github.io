@@ -40,7 +40,7 @@
 
 [YouTube Downloader](https://bluejay113.github.io/ytdl-chrome/)
 
-[Mathletics Customiser](https://bluejay113.github.io/mathletics-customiser/)
+[Mathletics Customizer](https://bluejay113.github.io/mathletics-customizer/)
 
 ### Other
 
