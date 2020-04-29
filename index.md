@@ -26,7 +26,7 @@
 
 [Kahoot! Play](https://bluejay113.github.io/Kahoot-Play/)
 
-[MyMusicStaff App for Windows](https://github.com/BlueJay113/mymusicstaffapp/releases)
+[MyMusicStaff App for Windows](https://github.com/BlueJay113/mymusicstaffapp/releases/latest)
 
 [Text To Numbers Translator](https://bluejay113.github.io/Text2NumbersTranslator/Translator.exe)
 
