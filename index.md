@@ -1,8 +1,10 @@
 # BlueJay113
 
-[Subscribe to my YouTube channel!](https://www.youtube.com/channel/UCT0uFEGgs0-X7Pze7_jtGWA)
+[YouTube Channel](https://www.youtube.com/channel/UCT0uFEGgs0-X7Pze7_jtGWA)
 
-[Check out my Steam Page!](http://steamcommunity.com/id/ohealing)
+[Steam Community User Page](http://steamcommunity.com/id/ohealing)
+
+[Blog Page](https://bluejay113.wordpress.com/)
 
 ## Projects
 
