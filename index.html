@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <title>Y2K4</title>
+    <script src="assets/jquery.min.js"></script>
+    <script src="assets/semantic.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="assets/semantic.min.css">
+</head>
+<body>
+    <div class="ui secondary vertical pointing menu">
+        <div class="title item" onclick="document.location=`index.html`"><h2>Y2K4</h2></div>
+        <a class="active item" href="index.html">Home</a>
+        <a class="item" href="javascript:alert(`soon`)">Repositories</a>
+        <a class="item" href="javascript:alert(`soon`)">Blog</a>
+        <a class="item" href="javascript:alert(`soon`)">About</a>
+    </div>
+    <div id="home">
+        <div class="ui horizontal basic segments">
+            <div class="ui segment">
+                <h3>Latest Repos</h3>
+                <div id="latestRepos" class="ui relaxed divided list"></div>
+            </div>
+            <div class="ui segment">
+                <h3>Latest Gists</h3>
+                <div id="latestGists" class="ui relaxed divided list"></div>
+            </div>
+            <div class="ui segment">
+                <h3>Latest Blog Posts</h3>
+                <div id="latestPosts" class="ui relaxed divided list">
+                    <div class="item">
+                        <div class="content">
+                            <a class="header">Bingus</a>
+                            <div class="description">uwu</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
