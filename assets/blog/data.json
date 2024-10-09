@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "name": "MIDI to micro:bit Converter",
+            "date": "18/09/2020",
+            "image": "assets/blog/resources/0/image.png",
+            "content": [
+                "<i>Note: This post used to be on my WordPress website (which I had abandoned XD).</i><br>",
+                "So, this program literally only took less than a week to create so it's okay I guess, not perfect, but does the job though. The converter grabs every MIDI note and converts it to a tone integer (in Hertz). At the bottom of this post, I will add a link to where you can find my C# tone dictionary, as well as a download link to the tool. The UI is like an installer, but it isn't. I thought it would be easier for the user in this format (information digestion), instead of getting blasted with information all at once, like <a href=\"https://rufus.ie\">Rufus</a>. I have simplified it down to the point where someone with no experience with a micro:bit can easily import a MIDI, convert it, paste the output code into the IDE and play the Simulator (or you could go a step further and export it to a physical micro:bit!).",
+                "There are 2 limitations to this program:<br><ol><li>If the MIDI has a long playing length, it takes a very long time to compile the IDE, and sometimes the code is too long that the micro:bit won't even be able to process the code or even store it on the built-in memory.</li><li>The tool can \"only\" process 1 instrument. I put that in quotation marks because… well, it can… but in a bad sort of sense. I'll explain.</li></ol>",
+                "The micro:bit can only process 1 tone at a time. This means that there can be no chords or multiple instruments (on a single micro:bit). The tool would process all of the notes as individual notes. Not separate notes or chords. An example of this is when I converted a \"Dr. Dre - Still Dre\" MIDI file. In the song, the epic chords (which the song is known for) turn into quarter notes. Which means the chords are instead played 1 note at a time next to each other. Let's just say it sounds like a mess and sounds terrible.",
+                "The reason why I made this tool in the first place was because a couple months ago, I created All Star by Smashmouth on 2 micro:bit, but the thing was that I was inputting the notes manually and in text form, not MIDI input. This caused both micro:bits to become out of sync very quickly because I was using the simulator initially and I didn't pay attention to the timing good enough.",
+                "So that caused me to create this tool. Just to make things easier. And with the note definitions code, this could branch off into many other things such as a synthesiser using tones and custom sounds, or even making your own micro:bit piano!",
+                "The power is in your hands my readers. (And you're welcome 😂😁)",
+                "Take care,<br>Y2K4"
+            ]
+        }
+    ]
+}
