@@ -1,3 +1,4 @@
+if (location.href == location.origin || location.href.endsWith("/index.html") || location.href.endsWith("/index")) {
 var tmp = undefined;
 var repos = [];
 var gists = [];
@@ -30,3 +31,4 @@ tmp = null;
         document.getElementById("latestGists").appendChild(el);
     }
 });
+}
