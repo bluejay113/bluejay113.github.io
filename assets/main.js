@@ -1,5 +1,4 @@
-alert(location.href + ", " + location.origin);
-if (location.href == location.origin || location.href.endsWith("/index.html") || location.href.endsWith("/index")) {
+if (location.href == `${location.origin}/` || location.href.endsWith("/index.html") || location.href.endsWith("/index")) {
 var tmp = undefined;
 var repos = [];
 var gists = [];
